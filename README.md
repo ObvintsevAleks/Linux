@@ -1,1 +1,1 @@
-Изученные команды: pwd, cd, ls, touch, mkdir, find, rm, mv, cat, more, less, head, tail, cp, sudo !!, curl, date, cal, chmod
+Изученные команды: cd, pwd, ls -lha, mkdir, rm, mv, touch, vim, cat, find, head, tail, more, less, curl, screen, chmod, sudo !!, sudo -i; sudo chgrp; sudo chown; 
